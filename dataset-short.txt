@@ -1,0 +1,25 @@
+Antoine Griezmann	Seg. Atacante	31	França	Atlético de Madrid	35,00
+Bernardo Silva	Meia Ofensivo	27	Portugal	Manchester City FC	80,00
+Bruno Fernandes	Meia Ofensivo	27	Portugal	Manchester United FC	85,00
+Cristiano Ronaldo	Centroavante	37	Portugal	Manchester United FC	30,00
+Erling Haaland	Centroavante	22	Noruega / Inglaterra	Manchester City FC	150,00
+Harry Kane	Centroavante	28	Inglaterra	Tottenham Hotspur 	90,00
+Heung-min Son	Ponta Esquerda	30	Coreia do Sul	Tottenham Hotspur 	75,00
+Karim Benzema	Centroavante	34	França / Argélia	Real Madrid CF	30,00
+Kevin De Bruyne	Meia Ofensivo	31	Bélgica	Manchester City FC	85,00
+Kylian Mbappé	Centroavante	23	França	FC Paris Saint-Germain	160,00
+Lautaro Martínez	Centroavante	24	Argentina	Inter de Milão	75,00
+Lionel Messi	Ponta Direita	35	Argentina / Espanha	FC Paris Saint-Germain	50,00
+Marquinhos	Zagueiro	28	Brasil / Portugal	FC Paris Saint-Germain	70,00
+Mason Mount	Meia Ofensivo	23	Inglaterra	Chelsea FC	75,00
+Mohamed Salah	Ponta Direita	30	Egito	FC Liverpool	90,00
+Neymar	Ponta Esquerda	30	Brasil	FC Paris Saint-Germain	75,00
+Pedri	Meia Central	19	Espanha	FC Barcelona	80,00
+Phil Foden	Meia Central	22	Inglaterra	Manchester City FC	90,00
+Robert Lewandowski	Centroavante	33	Polónia	FC Barcelona	45,00
+Rodri	Volante	26	Espanha	Manchester City FC	80,00
+Romelu Lukaku	Centroavante	29	Bélgica / RD do Congo	Inter de Milão	70,00
+Rúben Dias	Zagueiro	25	Portugal	Manchester City FC	75,00
+Trent Alexander-Arnold	Lateral Dir.	23	Inglaterra	FC Liverpool	80,00
+Vinicius Junior	Ponta Esquerda	22	Brasil	Real Madrid CF	100,00
+Virgil van Dijk	Zagueiro	31	Holanda / Suriname	FC Liverpool	55,00

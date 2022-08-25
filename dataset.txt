@@ -1,0 +1,500 @@
+Aaron Hickey	Lateral Esq.	20	Escócia	Brentford FC	18,00
+Aaron Ramsdale	Goleiro	24	Inglaterra	FC Arsenal	28,00
+Aaron Wan-Bissaka	Lateral Dir.	24	Inglaterra / RD do Congo	Manchester United FC	25,00
+Abdoulaye Doucouré	Meia Central	29	Mali / França	FC Everton	22,00
+Achraf Hakimi	Lateral Dir.	23	Marrocos / Espanha	FC Paris Saint-Germain	65,00
+Adam Hlozek	Seg. Atacante	20	República Checa	Bayer 04 Leverkusen	20,00
+Adama Traoré	Ponta Direita	26	Espanha / Mali	Wolverhampton Wanderers	20,00
+Alejandro Grimaldo	Lateral Esq.	26	Espanha	Sport Lisboa e Benfica	20,00
+Aleksandar Mitrović	Centroavante	27	Sérvia	FC Fulham	20,00
+Aleksandr Golovin	Meia Ofensivo	26	Rússia	AS Mônaco	25,00
+Alessandro Bastoni	Zagueiro	23	Itália	Inter de Milão	60,00
+Álex Remiro	Goleiro	27	Espanha	Real Sociedad	22,00
+Alex Telles	Lateral Esq.	29	Brasil / Itália	Manchester United FC	18,00
+Alexander Isak	Centroavante	22	Suécia / Eritreia	Real Sociedad	30,00
+Alfonso Pedraza	Lateral Esq.	26	Espanha	FC Villarreal	18,00
+Alisson	Goleiro	29	Brasil	FC Liverpool	50,00
+Allan Saint-Maximin	Ponta Esquerda	25	França / Guadalupe	Newcastle United	32,00
+Alphonso Davies	Lateral Esq.	21	Canadá / Libéria	FC Bayern de Munique	70,00
+Álvaro Morata	Centroavante	29	Espanha	Atlético de Madrid	25,00
+Amadou Haidara	Meia Central	24	Mali	RB Leipzig	24,00
+Amine Gouiri	Centroavante	22	França / Argélia	OGC Nice	42,00
+Amir Rrahmani	Zagueiro	28	Kosovo / Albânia	Nápoles	25,00
+André Silva	Centroavante	26	Portugal	RB Leipzig	32,00
+André Zambo Anguissa	Volante	26	Camarões	Nápoles	30,00
+Andrea Belotti	Centroavante	28	Itália	Sem clube	20,00
+Andrea Pinamonti	Centroavante	23	Itália	Inter de Milão	20,00
+Andreas Christensen	Zagueiro	26	Dinamarca	FC Barcelona	35,00
+Andrew Robertson	Lateral Esq.	28	Escócia	FC Liverpool	65,00
+Ángel Correa	Seg. Atacante	27	Argentina / Espanha	Atlético de Madrid	45,00
+Angeliño	Lateral Esq.	25	Espanha	RB Leipzig	30,00
+Ansu Fati	Ponta Esquerda	19	Espanha / Guiné Bissau	FC Barcelona	60,00
+Anthony Elanga	Ponta Esquerda	20	Suécia / Camarões	Manchester United FC	20,00
+Anthony Gordon	Ponta Esquerda	21	Inglaterra	FC Everton	20,00
+Antoine Griezmann	Seg. Atacante	31	França	Atlético de Madrid	35,00
+Antonin Barak	Meia Ofensivo	27	República Checa	Hellas Verona	20,00
+Antonio Rüdiger	Zagueiro	29	Alemanha / Serra Leoa	Real Madrid CF	40,00
+Antony	Ponta Direita	22	Brasil	AFC Ajax	35,00
+Aritz Elustondo	Zagueiro	28	Espanha	Real Sociedad	20,00
+Armando Broja	Centroavante	20	Albânia / Inglaterra	Chelsea FC	22,00
+Arnaud Kalimuendo	Centroavante	20	França / RD do Congo	FC Paris Saint-Germain	18,00
+Arnaut Danjuma	Centroavante	25	Holanda / Nigéria	FC Villarreal	50,00
+Arthur	Volante	25	Brasil	Juventus FC	18,00
+Aurélien Tchouameni	Volante	22	França / Camarões	Real Madrid CF	60,00
+Aymeric Laporte	Zagueiro	28	Espanha / França	Manchester City FC	45,00
+Ben Chilwell	Lateral Esq.	25	Inglaterra	Chelsea FC	38,00
+Ben Davies	Lateral Esq.	29	País de Gales	Tottenham Hotspur 	20,00
+Ben Godfrey	Zagueiro	24	Inglaterra / Jamaica	FC Everton	20,00
+Ben White	Zagueiro	24	Inglaterra	FC Arsenal	40,00
+Benjamin Bourigeaud	Meia Central	28	França	Stade Rennais FC	18,00
+Benjamin Pavard	Lateral Dir.	26	França	FC Bayern de Munique	30,00
+Benoît Badiashile	Zagueiro	21	França / RD do Congo	AS Mônaco	30,00
+Bernardo Silva	Meia Ofensivo	27	Portugal	Manchester City FC	80,00
+Borna Sosa	Lateral Esq.	24	Croácia / Alemanha	VfB Stuttgart	23,00
+Boubacar Kamara	Volante	22	França / Senegal	Aston Villa FC	25,00
+Boubakary Soumaré	Volante	23	França / Senegal	Leicester City FC	25,00
+Brahim Díaz	Meia Ofensivo	22	Espanha / Marrocos	AC Milan	18,00
+Brais Méndez	Ponta Direita	25	Espanha	Real Sociedad	18,00
+Bremer	Zagueiro	25	Brasil	Juventus FC	35,00
+Brenden Aaronson	Meia Ofensivo	21	Estados Unidos	Leeds United FC 	25,00
+Bruno Fernandes	Meia Ofensivo	27	Portugal	Manchester United FC	85,00
+Bruno Guimarães	Volante	24	Brasil / Espanha	Newcastle United	40,00
+Bryan Cristante	Volante	27	Itália / Canadá	AS Roma	20,00
+Bryan Gil	Ponta Esquerda	21	Espanha	Tottenham Hotspur 	18,00
+Bryan Mbeumo	Ponta Direita	22	França / Camarões	Brentford FC	22,00
+Bukayo Saka	Meia Direita	20	Inglaterra / Nigéria	FC Arsenal	65,00
+Caglar Söyüncü	Zagueiro	26	Turquia	Leicester City FC	40,00
+Caio Henrique	Lateral Esq.	24	Brasil / Espanha	AS Mônaco	20,00
+Callum Hudson-Odoi	Ponta Direita	21	Inglaterra / Gana	Chelsea FC	25,00
+Carlos Soler	Meia Central	25	Espanha	Valência CF	50,00
+Casemiro	Volante	30	Brasil / Espanha	Real Madrid CF	40,00
+Castello Lukeba	Zagueiro	19	França / Angola	Olympique Lyon	20,00
+Cengiz Ünder	Ponta Direita	25	Turquia	Olympique Marselha	22,00
+Charles De Ketelaere	Meia Ofensivo	21	Bélgica	Club Brugge	30,00
+Ché Adams	Centroavante	26	Escócia / Inglaterra	FC Southampton	18,00
+Christian Eriksen	Meia Ofensivo	30	Dinamarca	Manchester United FC	20,00
+Christian Pulisic	Ponta Direita	23	Estados Unidos / Croácia	Chelsea FC	42,00
+Christoph Baumgartner	Meia Ofensivo	22	Áustria	TSG 1899 Hoffenheim	22,00
+Christopher Nkunku	Seg. Atacante	24	França / RD do Congo	RB Leipzig	80,00
+Ciro Immobile	Centroavante	32	Itália	SS Lazio	27,00
+Claudinho	Meia Ofensivo	25	Brasil	Zenit São Petersburgo	18,00
+Cody Gakpo	Ponta Esquerda	23	Holanda / Togo	PSV Eindhoven	30,00
+Conor Coady	Zagueiro	29	Inglaterra	Wolverhampton Wanderers	25,00
+Conor Gallagher	Meia Central	22	Inglaterra	Chelsea FC	25,00
+Cristian Romero	Zagueiro	24	Argentina	Tottenham Hotspur 	48,00
+Cristiano Ronaldo	Centroavante	37	Portugal	Manchester United FC	30,00
+Curtis Jones	Meia Central	21	Inglaterra	FC Liverpool	28,00
+Daichi Kamada	Meia Ofensivo	25	Japão	Eintracht Frankfurt	22,00
+Dani Olmo	Meia Ofensivo	24	Espanha	RB Leipzig	40,00
+Daniel James	Ponta Direita	24	País de Gales / Inglaterra	Leeds United FC 	18,00
+Daniel Podence	Ponta Direita	26	Portugal	Wolverhampton Wanderers	20,00
+Danilo	Volante	21	Brasil	SE Palmeiras	22,00
+Danny Ings	Centroavante	30	Inglaterra	Aston Villa FC	20,00
+Darwin Núñez	Centroavante	23	Uruguai	FC Liverpool	55,00
+David Alaba	Zagueiro	30	Áustria	Real Madrid CF	55,00
+David García	Zagueiro	28	Espanha	CA Osasuna	20,00
+David Neres	Ponta Direita	25	Brasil	Sport Lisboa e Benfica	20,00
+David Raum	Lateral Esq.	24	Alemanha	TSG 1899 Hoffenheim	20,00
+David Raya	Goleiro	26	Espanha	Brentford FC	22,00
+Davide Calabria	Lateral Dir.	25	Itália	AC Milan	25,00
+Davide Frattesi	Meia Central	22	Itália	US Sassuolo	20,00
+Davinson Sánchez	Zagueiro	26	Colômbia	Tottenham Hotspur 	28,00
+Dayot Upamecano	Zagueiro	23	França / Guiné Bissau	FC Bayern de Munique	40,00
+Dean Henderson	Goleiro	25	Inglaterra	Nottingham Forest	18,00
+Declan Rice	Volante	23	Inglaterra / Irlanda	West Ham United	80,00
+Dejan Kulusevski	Ponta Direita	22	Suécia / Macedónia do Norte	Tottenham Hotspur 	40,00
+Demarai Gray	Ponta Esquerda	26	Inglaterra / Jamaica	FC Everton	22,00
+Denis Zakaria	Volante	25	Suiça / RD do Congo	Juventus FC	27,00
+Denzel Dumfries	Meia Direita	26	Holanda / Aruba	Inter de Milão	25,00
+Diego Carlos	Zagueiro	29	Brasil / Espanha	Aston Villa FC	40,00
+Diogo Costa	Goleiro	22	Portugal / Suiça	Futebol Clube do Porto	25,00
+Diogo Dalot	Lateral Dir.	23	Portugal	Manchester United FC	20,00
+Diogo Jota	Ponta Esquerda	25	Portugal	FC Liverpool	60,00
+Djibril Sow	Meia Central	25	Suiça / Senegal	Eintracht Frankfurt	22,00
+Dodô	Lateral Dir.	23	Brasil	ACF Fiorentina	20,00
+Domenico Berardi	Ponta Direita	27	Itália	US Sassuolo	35,00
+Dominic Calvert-Lewin	Centroavante	25	Inglaterra	FC Everton	40,00
+Dominik Szoboszlai	Ponta Esquerda	21	Hungria	RB Leipzig	28,00
+Donny van de Beek	Meia Central	25	Holanda	Manchester United FC	25,00
+Donyell Malen	Centroavante	23	Holanda / Suriname	Borussia Dortmund	27,00
+Douglas Luiz	Volante	24	Brasil	Aston Villa FC	38,00
+Dušan Vlahović	Centroavante	22	Sérvia	Juventus FC	85,00
+Duván Zapata	Centroavante	31	Colômbia	Atalanta BC	28,00
+Dwight McNeil	Ponta Esquerda	22	Inglaterra	FC Burnley	18,00
+Eberechi Eze	Meia Ofensivo	24	Inglaterra / Nigéria	Crystal Palace FC	22,00
+Éder Militão	Zagueiro	24	Brasil	Real Madrid CF	60,00
+Ederson	Goleiro	28	Brasil / Portugal	Manchester City FC	45,00
+Edmond Tapsoba	Zagueiro	23	Burkina Faso	Bayer 04 Leverkusen	35,00
+Edouard Mendy	Goleiro	30	Senegal / Guiné Bissau	Chelsea FC	32,00
+Edson Álvarez	Volante	24	México	AFC Ajax	22,00
+Eduardo Camavinga	Meia Central	19	França / Congo	Real Madrid CF	55,00
+Eljif Elmas	Meia Ofensivo	22	Macedónia do Norte	Nápoles	24,00
+Emerson Royal	Lateral Dir.	23	Brasil / Espanha	Tottenham Hotspur 	25,00
+Emile Smith Rowe	Meia Ofensivo	21	Inglaterra	FC Arsenal	40,00
+Emiliano Buendía	Ponta Direita	25	Argentina / Espanha	Aston Villa FC	32,00
+Emiliano Martínez	Goleiro	29	Argentina	Aston Villa FC	28,00
+Enes Ünal	Centroavante	25	Turquia	Getafe CF	25,00
+Enock Mwepu	Meia Central	24	Zâmbia	Brighton Albion	18,00
+Eric Dier	Zagueiro	28	Inglaterra / Portugal	Tottenham Hotspur 	28,00
+Eric García	Zagueiro	21	Espanha	FC Barcelona	18,00
+Erling Haaland	Centroavante	22	Noruega / Inglaterra	Manchester City FC	150,00
+Evan Ndicka	Zagueiro	22	França / Camarões	Eintracht Frankfurt	32,00
+Evanilson	Centroavante	22	Brasil	Futebol Clube do Porto	22,00
+Ezri Konsa	Zagueiro	24	Inglaterra / RD do Congo	Aston Villa FC	22,00
+Fabián Ruiz	Meia Central	26	Espanha	Nápoles	55,00
+Fabinho	Volante	28	Brasil	FC Liverpool	60,00
+Fábio Vieira	Meia Ofensivo	22	Portugal	FC Arsenal	25,00
+Federico Chiesa	Ponta Direita	24	Itália	Juventus FC	65,00
+Federico Valverde	Meia Central	24	Uruguai / Espanha	Real Madrid CF	70,00
+Ferland Mendy	Lateral Esq.	27	França / Senegal	Real Madrid CF	40,00
+Ferran Torres	Ponta Esquerda	22	Espanha	FC Barcelona	45,00
+Fikayo Tomori	Zagueiro	24	Inglaterra / Canadá	AC Milan	50,00
+Filip Kostic	Meia Esquerda	29	Sérvia	Eintracht Frankfurt	24,00
+Florian Neuhaus	Meia Central	25	Alemanha	Borussia Mönchengladbach	20,00
+Florian Wirtz	Meia Ofensivo	19	Alemanha	Bayer 04 Leverkusen	70,00
+Francisco Trincão	Ponta Direita	22	Portugal	Sporting Clube de Portugal	20,00
+Franck Kessié	Meia Central	25	Costa do Marfim	FC Barcelona	45,00
+Fred	Meia Central	29	Brasil	Manchester United FC	20,00
+Frenkie de Jong	Meia Central	25	Holanda	FC Barcelona	60,00
+Gabriel Barbosa	Centroavante	25	Brasil	CR Flamengo	26,00 
+Gabriel Jesus	Centroavante	25	Brasil	FC Arsenal	50,00
+Gabriel Magalhães	Zagueiro	24	Brasil	FC Arsenal	38,00
+Gabriel Martinelli	Ponta Esquerda	21	Brasil / Itália	FC Arsenal	40,00
+Gavi	Meia Central	17	Espanha	FC Barcelona	60,00
+Geoffrey Kondogbia	Volante	29	República Central Africana / França	Atlético de Madrid	20,00
+Gerard Moreno	Centroavante	30	Espanha	FC Villarreal	40,00
+Gerson	Meia Central	25	Brasil	Olympique Marselha	22,00
+Giacomo Raspadori	Seg. Atacante	22	Itália	US Sassuolo	28,00
+Gianluca Mancini	Zagueiro	26	Itália	AS Roma	21,00
+Gianluca Scamacca	Centroavante	23	Itália	West Ham United	30,00
+Gianluigi Donnarumma	Goleiro	23	Itália	FC Paris Saint-Germain	50,00
+Giovani Lo Celso	Meia Central	26	Argentina / Itália	Tottenham Hotspur 	22,00
+Giovanni Di Lorenzo	Lateral Dir.	28	Itália	Nápoles	25,00
+Giovanni Reyna	Meia Ofensivo	19	Estados Unidos / Portugal	Borussia Dortmund	35,00
+Gonçalo Guedes	Ponta Esquerda	25	Portugal	Valência CF	40,00
+Gonçalo Inácio	Zagueiro	20	Portugal	Sporting Clube de Portugal	23,00
+Granit Xhaka	Volante	29	Suiça	FC Arsenal	20,00
+Gregor Kobel	Goleiro	24	Suiça	Borussia Dortmund	22,00
+Guido Rodríguez	Volante	28	Argentina / Itália	Real Bétis	25,00
+Hakan Calhanoglu	Meia Central	28	Turquia / Alemanha	Inter de Milão	35,00
+Hakim Ziyech	Meia Ofensivo	29	Marrocos / Holanda	Chelsea FC	28,00
+Hamed Junior Traorè	Meia Ofensivo	22	Costa do Marfim	US Sassuolo	22,00
+Harry Kane	Centroavante	28	Inglaterra	Tottenham Hotspur 	90,00
+Harry Maguire	Zagueiro	29	Inglaterra	Manchester United FC	38,00
+Harvey Barnes	Meia Esquerda	24	Inglaterra / Escócia	Leicester City FC	32,00
+Harvey Elliott	Ponta Direita	19	Inglaterra	FC Liverpool	22,00
+Héctor Bellerín	Lateral Dir.	27	Espanha	FC Arsenal	20,00
+Heung-min Son	Ponta Esquerda	30	Coreia do Sul	Tottenham Hotspur 	75,00
+Hirving Lozano	Ponta Direita	26	México	Nápoles	30,00
+Houssem Aouar	Meia Central	24	França / Argélia	Olympique Lyon	25,00
+Hugo Ekitiké	Centroavante	20	França / Camarões	FC Paris Saint-Germain	28,00
+Hugo Guillamón	Volante	22	Espanha	Valência CF	20,00
+Ibrahim Sangaré	Volante	24	Costa do Marfim	PSV Eindhoven	24,00
+Ibrahima Konaté	Zagueiro	23	França / Mali	FC Liverpool	40,00
+Ilkay Gündogan	Meia Central	31	Alemanha	Manchester City FC	25,00
+Illan Meslier	Goleiro	22	França	Leeds United FC 	20,00
+Iñaki Williams	Centroavante	28	Gana / Espanha	Athletic Bilbao	25,00
+Iñigo Martínez	Zagueiro	31	Espanha	Athletic Bilbao	25,00
+Ismaël Bennacer	Volante	24	Argélia / França	AC Milan	33,00
+Ismaïla Sarr	Ponta Direita	24	Senegal	FC Watford	27,00
+Ivan Toney	Centroavante	26	Inglaterra / Jamaica	Brentford FC	35,00
+Jack Grealish	Ponta Esquerda	26	Inglaterra / Irlanda 	Manchester City FC	70,00
+Jack Harrison	Ponta Esquerda	25	Inglaterra	Leeds United FC 	18,00
+Jacob Ramsey	Meia Central	21	Inglaterra	Aston Villa FC	25,00
+Jadon Sancho	Ponta Esquerda	22	Inglaterra / Trinidad e Tobago	Manchester United FC	75,00
+Jamal Musiala	Meia Ofensivo	19	Alemanha / Inglaterra	FC Bayern de Munique	65,00
+James Justin	Lateral Dir.	24	Inglaterra / Santa Lúcia	Leicester City FC	25,00
+James Maddison	Meia Ofensivo	25	Inglaterra	Leicester City FC	50,00
+James Tarkowski	Zagueiro	29	Inglaterra / Polónia	FC Everton	22,00
+James Ward-Prowse	Meia Central	27	Inglaterra	FC Southampton	32,00
+Jan Bednarek	Zagueiro	26	Polónia	FC Southampton	22,00
+Jan Oblak	Goleiro	29	Eslovénia	Atlético de Madrid	45,00
+Jarrod Bowen	Ponta Direita	25	Inglaterra	West Ham United	42,00
+Jean-Clair Todibo	Zagueiro	22	França / Guiana Francesa	OGC Nice	20,00
+Jérémie Boga	Ponta Esquerda	25	Costa do Marfim / França	Atalanta BC	19,00
+Jeremie Frimpong	Lateral Dir.	21	Holanda / Gana	Bayer 04 Leverkusen	20,00
+Jérémy Doku	Ponta Direita	20	Bélgica / Gana	Stade Rennais FC	20,00
+Joachim Andersen	Zagueiro	26	Dinamarca	Crystal Palace FC	25,00
+Joan Jordán	Meia Central	28	Espanha	Sevilla FC	22,00
+João Cancelo	Lateral Dir.	28	Portugal	Manchester City FC	65,00
+João Félix	Seg. Atacante	22	Portugal	Atlético de Madrid	70,00
+João Palhinha	Volante	27	Portugal	FC Fulham	25,00
+Joaquín Correa	Seg. Atacante	27	Argentina / Itália	Inter de Milão	23,00
+Joe Gomez	Zagueiro	25	Inglaterra / Gâmbia	FC Liverpool	18,00
+Joe Willock	Meia Central	22	Inglaterra / Montserrat	Newcastle United	22,00
+Joelinton	Meia Ofensivo	25	Brasil	Newcastle United	20,00
+John McGinn	Meia Central	27	Escócia	Aston Villa FC	32,00
+John Stones	Zagueiro	28	Inglaterra	Manchester City FC	28,00
+Jonathan David	Centroavante	22	Canadá / Estados Unidos	LOSC Lille	45,00
+Jonathan Ikoné	Ponta Direita	24	França / RD do Congo	ACF Fiorentina	18,00
+Jonathan Tah	Zagueiro	26	Alemanha	Bayer 04 Leverkusen	25,00
+Jordan Pickford	Goleiro	28	Inglaterra	FC Everton	20,00
+Jorginho	Volante	30	Itália / Brasil	Chelsea FC	40,00
+José Gayà	Lateral Esq.	27	Espanha	Valência CF	40,00
+José María Giménez	Zagueiro	27	Uruguai / Espanha	Atlético de Madrid	50,00
+Joshua Kimmich	Volante	27	Alemanha	FC Bayern de Munique	80,00
+Josko Gvardiol	Zagueiro	20	Croácia	RB Leipzig	35,00
+Juan Foyth	Lateral Dir.	24	Argentina / Espanha	FC Villarreal	25,00
+Jude Bellingham	Meia Central	19	Inglaterra	Borussia Dortmund	80,00
+Jules Koundé	Zagueiro	23	França / Benim	Sevilla FC	60,00
+Julián Álvarez	Centroavante	22	Argentina	Manchester City FC	23,00
+Julian Brandt	Meia Ofensivo	26	Alemanha	Borussia Dortmund	25,00
+Julian Weigl	Volante	26	Alemanha	Sport Lisboa e Benfica	22,00
+Jurrien Timber	Zagueiro	21	Holanda / Curacao	AFC Ajax	35,00
+Kai Havertz	Meia Ofensivo	23	Alemanha	Chelsea FC	70,00
+Kalidou Koulibaly	Zagueiro	31	Senegal / França	Chelsea FC	35,00
+Kalvin Phillips	Volante	26	Inglaterra / Jamaica	Manchester City FC	50,00
+Kamaldeen Sulemana	Ponta Esquerda	20	Gana	Stade Rennais FC	18,00
+Karim Adeyemi	Centroavante	20	Alemanha / Nigéria	Borussia Dortmund	35,00
+Karim Benzema	Centroavante	34	França / Argélia	Real Madrid CF	30,00
+Kelechi Iheanacho	Centroavante	25	Nigéria	Leicester City FC	20,00
+Kevin De Bruyne	Meia Ofensivo	31	Bélgica	Manchester City FC	85,00
+Kevin Volland	Seg. Atacante	29	Alemanha	AS Mônaco	22,00
+Kieran Tierney	Lateral Esq.	25	Escócia / Ilha de Man	FC Arsenal	32,00
+Kingsley Coman	Ponta Direita	26	França / Guadalupe	FC Bayern de Munique	60,00
+Koke	Meia Central	30	Espanha	Atlético de Madrid	25,00
+Konrad Laimer	Meia Central	25	Áustria	RB Leipzig	28,00
+Kouadio Koné	Meia Central	21	França / Costa do Marfim	Borussia Mönchengladbach	18,00
+Kristoffer Ajer	Zagueiro	24	Noruega	Brentford FC	18,00
+Kurt Zouma	Zagueiro	27	França / República Central Africana	West Ham United	28,00
+Kyle Walker-Peters	Lateral Dir.	25	Inglaterra	FC Southampton	22,00
+Kylian Mbappé	Centroavante	23	França	FC Paris Saint-Germain	160,00
+Lautaro Martínez	Centroavante	24	Argentina	Inter de Milão	75,00
+Leander Dendoncker	Volante	27	Bélgica	Wolverhampton Wanderers	28,00
+Leandro Trossard	Ponta Esquerda	27	Bélgica	Brighton Albion	20,00
+Leon Bailey	Ponta Esquerda	24	Jamaica	Aston Villa FC	25,00
+Leon Goretzka	Meia Central	27	Alemanha	FC Bayern de Munique	65,00
+Leonardo Spinazzola	Lateral Esq.	29	Itália	AS Roma	20,00
+Leroy Sané	Ponta Esquerda	26	Alemanha / França	FC Bayern de Munique	60,00
+Lewis Dunk	Zagueiro	30	Inglaterra	Brighton Albion	20,00
+Lionel Messi	Ponta Direita	35	Argentina / Espanha	FC Paris Saint-Germain	50,00
+Lisandro Martínez	Zagueiro	24	Argentina	Manchester United FC	32,00
+Lorenzo Insigne	Ponta Esquerda	31	Itália	Toronto FC	25,00
+Lorenzo Pellegrini	Meia Ofensivo	26	Itália	AS Roma	45,00
+Lovro Majer	Meia Ofensivo	24	Croácia	Stade Rennais FC	20,00
+Lucas Digne	Lateral Esq.	29	França	Aston Villa FC	25,00
+Lucas Hernández	Zagueiro	26	França / Espanha	FC Bayern de Munique	50,00
+Lucas Moura	Ponta Direita	29	Brasil	Tottenham Hotspur 	20,00
+Lucas Ocampos	Ponta Esquerda	28	Argentina / Espanha	Sevilla FC	25,00
+Lucas Paquetá	Meia Ofensivo	24	Brasil / Portugal	Olympique Lyon	35,00
+Lucas Torreira	Volante	26	Uruguai / Espanha	FC Arsenal	20,00
+Luis Alberto	Meia Central	29	Espanha	SS Lazio	28,00
+Luis Díaz	Ponta Esquerda	25	Colômbia	FC Liverpool	65,00
+Luis Muriel	Centroavante	31	Colômbia	Atalanta BC	20,00
+Luis Sinisterra	Ponta Esquerda	23	Colômbia	Leeds United FC 	25,00
+Luka Sucic	Meia Central	19	Croácia	Red Bull Salzburgo	20,00
+Lukas Nmecha	Centroavante	23	Alemanha / Inglaterra	VfL Wolfsburgo	18,00
+Luke Shaw	Lateral Esq.	27	Inglaterra	Manchester United FC	38,00
+Malcom	Ponta Direita	25	Brasil	Zenit São Petersburgo	22,00
+Manor Solomon	Ponta Esquerda	23	Israel / Portugal	FC Fulham	18,00
+Manuel Akanji	Zagueiro	27	Suiça / Nigéria	Borussia Dortmund	30,00
+Manuel Locatelli	Volante	24	Itália	Juventus FC	35,00
+Marc Cucurella	Lateral Esq.	24	Espanha	Brighton Albion	28,00
+Marc Guéhi	Zagueiro	22	Inglaterra / Costa do Marfim	Crystal Palace FC	32,00
+Marc-André ter Stegen	Goleiro	30	Alemanha	FC Barcelona	30,00
+Marcelo Brozovic	Volante	29	Croácia	Inter de Milão	40,00
+Marco Asensio	Ponta Direita	26	Espanha / Holanda	Real Madrid CF	40,00
+Marco Verratti	Meia Central	29	Itália	FC Paris Saint-Germain	50,00
+Marcos Llorente	Meia Central	27	Espanha	Atlético de Madrid	45,00
+Marcus Rashford	Ponta Esquerda	24	Inglaterra / São Cristovão e Nevis	Manchester United FC	60,00
+Marcus Thuram	Ponta Esquerda	24	França / Guadalupe	Borussia Mönchengladbach	20,00
+Mario Hermoso	Zagueiro	27	Espanha	Atlético de Madrid	20,00
+Mario Pasalic	Meia Ofensivo	27	Croácia	Atalanta BC	28,00
+Marquinhos	Zagueiro	28	Brasil / Portugal	FC Paris Saint-Germain	70,00
+Martin Ødegaard	Meia Ofensivo	23	Noruega	FC Arsenal	45,00
+Martin Terrier	Ponta Esquerda	25	França	Stade Rennais FC	25,00
+Martín Zubimendi	Volante	23	Espanha	Real Sociedad	30,00
+Mason Holgate	Zagueiro	25	Inglaterra / Jamaica	FC Everton	18,00
+Mason Mount	Meia Ofensivo	23	Inglaterra	Chelsea FC	75,00
+Mateo Kovacic	Meia Central	28	Croácia	Chelsea FC	42,00
+Matheus Cunha	Centroavante	23	Brasil	Atlético de Madrid	30,00
+Matheus Nunes	Meia Central	23	Portugal / Brasil	Sporting Clube de Portugal	35,00
+Mattéo Guendouzi	Meia Central	23	França / Marrocos	Olympique Marselha	25,00
+Matteo Politano	Ponta Direita	28	Itália	Nápoles	20,00
+Matthijs de Ligt	Zagueiro	22	Holanda	FC Bayern de Munique	70,00
+Mattia Zaccagni	Meia Ofensivo	27	Itália	SS Lazio	18,00
+Matty Cash	Lateral Dir.	24	Polónia / Inglaterra	Aston Villa FC	25,00
+Mauro Icardi	Centroavante	29	Argentina / Itália	FC Paris Saint-Germain	22,00
+Max Aarons	Lateral Dir.	22	Inglaterra / Jamaica	Norwich City	22,00
+Maxence Caqueret	Meia Central	22	França	Olympique Lyon	25,00
+Maxence Lacroix	Zagueiro	22	França / Guadalupe	VfL Wolfsburgo	20,00
+Mehdi Taremi	Centroavante	30	Irão	Futebol Clube do Porto	20,00
+Memphis Depay	Centroavante	28	Holanda / Gana	FC Barcelona	35,00
+Merih Demiral	Zagueiro	24	Turquia	Atalanta BC	25,00
+Michael Keane	Zagueiro	29	Inglaterra / Irlanda 	FC Everton	20,00
+Michael Olise	Meia Direita	20	França / Inglaterra	Crystal Palace FC	22,00
+Mike Maignan	Goleiro	27	França / Guiana Francesa	AC Milan	35,00
+Mikel Merino	Meia Central	26	Espanha	Real Sociedad	50,00
+Mikel Oyarzabal	Ponta Esquerda	25	Espanha	Real Sociedad	60,00
+Milan Skriniar	Zagueiro	27	Eslováquia	Inter de Milão	65,00
+Mohamed Camara	Volante	22	Mali	Red Bull Salzburgo	27,00
+Mohamed Salah	Ponta Direita	30	Egito	FC Liverpool	90,00
+Mohamed Simakan	Zagueiro	22	França / Guiné	RB Leipzig	22,00
+Mohammed Salisu	Zagueiro	23	Gana	FC Southampton	18,00
+Moise Kean	Centroavante	22	Itália / Costa do Marfim	Juventus FC	24,00
+Moussa Dembélé	Centroavante	26	França / Mali	Olympique Lyon	20,00
+Moussa Diaby	Ponta Esquerda	23	França / Mali	Bayer 04 Leverkusen	60,00
+Moussa Niakhaté	Zagueiro	26	França / Senegal	Nottingham Forest	18,00
+Musa Barrow	Ponta Esquerda	23	Gâmbia	Bologna	18,00
+N'Golo Kanté	Volante	31	França / Mali	Chelsea FC	40,00
+Nabil Fekir	Meia Ofensivo	29	França / Argélia	Real Bétis	40,00
+Naby Keïta	Meia Central	27	Guiné	FC Liverpool	25,00
+Nahuel Molina	Lateral Dir.	24	Argentina	Udinese Calcio	20,00
+Nathan Aké	Zagueiro	27	Holanda / Costa do Marfim	Manchester City FC	25,00
+Nélson Semedo	Lateral Dir.	28	Portugal / Cabo Verde	Wolverhampton Wanderers	22,00
+Neymar	Ponta Esquerda	30	Brasil	FC Paris Saint-Germain	75,00
+Nico González	Meia Central	20	Espanha	FC Barcelona	20,00
+Nico Schlotterbeck	Zagueiro	22	Alemanha	Borussia Dortmund	33,00
+Nicolás González	Ponta Esquerda	24	Argentina / Itália	ACF Fiorentina	25,00
+Nicolas Pépé	Ponta Direita	27	Costa do Marfim / França	FC Arsenal	25,00
+Nicolas Seiwald	Meia Central	21	Áustria	Red Bull Salzburgo	20,00
+Nicolò Barella	Meia Central	25	Itália	Inter de Milão	70,00
+Nicolò Zaniolo	Ponta Direita	23	Itália	AS Roma	33,00
+Niklas Süle	Zagueiro	26	Alemanha	Borussia Dortmund	35,00
+Nikola Milenković	Zagueiro	24	Sérvia	ACF Fiorentina	20,00
+Nikola Vlasic	Meia Ofensivo	24	Croácia	West Ham United	22,00
+Noa Lang	Ponta Esquerda	23	Holanda / Suriname	Club Brugge	22,00
+Noah Okafor	Centroavante	22	Suiça / Nigéria	Red Bull Salzburgo	18,00
+Noni Madueke	Ponta Direita	20	Inglaterra / Nigéria	PSV Eindhoven	18,00
+Nordi Mukiele	Lateral Dir.	24	França / RD do Congo	FC Paris Saint-Germain	20,00
+Noussair Mazraoui	Lateral Dir.	24	Marrocos / Holanda	FC Bayern de Munique	20,00
+Nuno Mendes	Lateral Esq.	20	Portugal	FC Paris Saint-Germain	40,00
+Odilon Kossounou	Zagueiro	21	Costa do Marfim	Bayer 04 Leverkusen	20,00
+Oleksandr Zinchenko	Lateral Esq.	25	Ucrânia	FC Arsenal	25,00
+Oliver Skipp	Volante	21	Inglaterra	Tottenham Hotspur 	18,00
+Ollie Watkins	Centroavante	26	Inglaterra	Aston Villa FC	35,00
+Orkun Kökcü	Meia Central	21	Turquia / Holanda	Feyenoord	22,00
+Otávio	Meia Direita	27	Portugal / Brasil	Futebol Clube do Porto	30,00
+Ousmane Dembélé	Ponta Direita	25	França / Mauritânia	FC Barcelona	30,00
+Pablo Fornals	Meia Ofensivo	26	Espanha	West Ham United	22,00
+Pablo Sarabia	Ponta Direita	30	Espanha	FC Paris Saint-Germain	25,00
+Patrik Schick	Centroavante	26	República Checa	Bayer 04 Leverkusen	50,00
+Patson Daka	Centroavante	23	Zâmbia	Leicester City FC	20,00
+Pau Torres	Zagueiro	25	Espanha	FC Villarreal	50,00
+Paul Pogba	Meia Central	29	França / Guiné	Juventus FC	48,00
+Paulo Dybala	Seg. Atacante	28	Argentina / Itália	AS Roma	35,00
+Pedri	Meia Central	19	Espanha	FC Barcelona	80,00
+Pedro Gonçalves	Ponta Esquerda	24	Portugal	Sporting Clube de Portugal	30,00
+Pedro Neto	Ponta Esquerda	22	Portugal	Wolverhampton Wanderers	32,00
+Pedro Porro	Lateral Dir.	22	Espanha	Sporting Clube de Portugal	25,00
+Pepê	Meia Esquerda	25	Brasil	Futebol Clube do Porto	18,00
+Pervis Estupiñán	Lateral Esq.	24	Equador / Espanha	FC Villarreal	20,00
+Phil Foden	Meia Central	22	Inglaterra	Manchester City FC	90,00
+Philip Billing	Meia Central	26	Dinamarca / Nigéria	AFC Bournemouth	18,00
+Philippe Coutinho	Ponta Esquerda	30	Brasil / Portugal	Aston Villa FC	20,00
+Pierre Kalulu	Zagueiro	22	França / RD do Congo	AC Milan	28,00
+Pierre-Emile Höjbjerg	Meia Central	26	Dinamarca / França	Tottenham Hotspur 	40,00
+Piotr Zielinski	Meia Ofensivo	28	Polónia	Nápoles	40,00
+Presnel Kimpembe	Zagueiro	26	França / RD do Congo	FC Paris Saint-Germain	40,00
+Rafa Silva	Meia Direita	29	Portugal	Sport Lisboa e Benfica	20,00
+Rafael Borré	Centroavante	26	Colômbia	Eintracht Frankfurt	20,00
+Rafael Leão	Ponta Esquerda	23	Portugal / Angola	AC Milan	70,00
+Raheem Sterling	Ponta Esquerda	27	Inglaterra / Jamaica	Chelsea FC	70,00
+Raphaël Guerreiro	Lateral Esq.	28	Portugal / França	Borussia Dortmund	25,00
+Raphaël Varane	Zagueiro	29	França / Martinica	Manchester United FC	48,00
+Raphinha	Ponta Direita	25	Brasil / Itália	FC Barcelona	45,00
+Raúl de Tomás	Centroavante	27	Espanha / República Dominicana	RCD Espanyol	25,00
+Rayan Aït-Nouri	Lateral Esq.	21	França / Argélia	Wolverhampton Wanderers	20,00
+Rayan Cherki	Ponta Direita	18	França / Argélia	Olympique Lyon	18,00
+Reece James	Lateral Dir.	22	Inglaterra	Chelsea FC	60,00
+Reinildo Mandava	Lateral Esq.	28	Moçambique	Atlético de Madrid	22,00
+Remo Freuler	Meia Central	30	Suiça	Atalanta BC	20,00
+Renan Lodi	Lateral Esq.	24	Brasil / Itália	Atlético de Madrid	30,00
+Renato Sanches	Meia Central	24	Portugal / São Tomé and Príncipe	LOSC Lille	28,00
+Ricardo Horta	Ponta Esquerda	27	Portugal	Sporting Clube de Braga	20,00
+Ricardo Pereira	Lateral Dir.	28	Portugal / Cabo Verde	Leicester City FC	20,00
+Richarlison	Centroavante	25	Brasil	Tottenham Hotspur 	48,00
+Rico Henry	Lateral Esq.	25	Inglaterra	Brentford FC	20,00
+Ridle Baku	Meia Direita	24	Alemanha / RD do Congo	VfL Wolfsburgo	20,00
+Riyad Mahrez	Ponta Direita	31	Argélia / França	Manchester City FC	35,00
+Robert Lewandowski	Centroavante	33	Polónia	FC Barcelona	45,00
+Roberto Firmino	Centroavante	30	Brasil	FC Liverpool	32,00
+Robin Gosens	Meia Esquerda	28	Alemanha / Holanda	Inter de Milão	28,00
+Robin Le Normand	Zagueiro	25	França	Real Sociedad	30,00
+Rodri	Volante	26	Espanha	Manchester City FC	80,00
+Rodrigo Bentancur	Meia Central	25	Uruguai	Tottenham Hotspur 	28,00
+Rodrigo de Paul	Meia Central	28	Argentina / Itália	Atlético de Madrid	40,00
+Rodrygo	Ponta Direita	21	Brasil	Real Madrid CF	60,00
+Roger Ibañez	Zagueiro	23	Brasil / Itália	AS Roma	23,00
+Romelu Lukaku	Centroavante	29	Bélgica / RD do Congo	Inter de Milão	70,00
+Ronald Araújo	Zagueiro	23	Uruguai	FC Barcelona	50,00
+Rúben Dias	Zagueiro	25	Portugal	Manchester City FC	75,00
+Ruben Loftus-Cheek	Meia Central	26	Inglaterra / Guiana	Chelsea FC	20,00
+Rúben Neves	Volante	25	Portugal	Wolverhampton Wanderers	40,00
+Ruslan Malinovskyi	Meia Ofensivo	29	Ucrânia	Atalanta BC	28,00
+Ryan Gravenberch	Meia Central	20	Holanda / Suriname	FC Bayern de Munique	35,00
+Ryan Sessegnon	Meia Esquerda	22	Inglaterra	Tottenham Hotspur 	18,00
+Sadio Mané	Ponta Esquerda	30	Senegal	FC Bayern de Munique	70,00
+Saïd Benrahma	Ponta Esquerda	26	Argélia / França	West Ham United	25,00
+Samuel Chukwueze	Ponta Direita	23	Nigéria	FC Villarreal	20,00
+Sandro Tonali	Volante	22	Itália	AC Milan	50,00
+Sardar Azmoun	Centroavante	27	Irão	Bayer 04 Leverkusen	22,00
+Sasa Kalajdzic	Centroavante	25	Áustria / Sérvia	VfB Stuttgart	25,00
+Saúl Ñíguez	Meia Central	27	Espanha	Atlético de Madrid	25,00
+Scott McTominay	Volante	25	Escócia / Inglaterra	Manchester United FC	32,00
+Sébastien Haller	Centroavante	28	Costa do Marfim / França	Borussia Dortmund	35,00
+Seko Fofana	Meia Central	27	Costa do Marfim / França	RC Lens	25,00
+Serge Gnabry	Ponta Direita	27	Alemanha / Costa do Marfim	FC Bayern de Munique	65,00
+Sergej Milinković-Savić	Meia Central	27	Sérvia / Espanha	SS Lazio	70,00
+Sergiño Dest	Lateral Dir.	21	Estados Unidos / Holanda	FC Barcelona	18,00
+Sergio Canales	Meia Ofensivo	31	Espanha	Real Bétis	20,00
+Sergio Reguilón	Lateral Esq.	25	Espanha	Tottenham Hotspur 	25,00
+Sofiane Diop	Ponta Esquerda	22	França / Senegal	AS Mônaco	20,00
+Stanislav Lobotka	Volante	27	Eslováquia	Nápoles	20,00
+Stefan de Vrij	Zagueiro	30	Holanda	Inter de Milão	28,00
+Steven Bergwijn	Ponta Esquerda	24	Holanda / Suriname	AFC Ajax	18,00
+Sven Botman	Zagueiro	22	Holanda	Newcastle United	30,00
+Taiwo Awoniyi	Centroavante	24	Nigéria	Nottingham Forest	20,00
+Takehiro Tomiyasu	Lateral Dir.	23	Japão	FC Arsenal	25,00
+Tammy Abraham	Centroavante	24	Inglaterra / Nigéria	AS Roma	50,00
+Tanguy Ndombélé	Meia Central	25	França / RD do Congo	Tottenham Hotspur 	30,00
+Tariq Lamptey	Lateral Dir.	21	Gana / Inglaterra	Brighton Albion	18,00
+Tetê	Ponta Direita	22	Brasil	Olympique Lyon	22,00
+Teun Koopmeiners	Volante	24	Holanda	Atalanta BC	25,00
+Theo Hernández	Lateral Esq.	24	França / Espanha	AC Milan	55,00
+Thiago	Meia Central	31	Espanha / Brasil	FC Liverpool	20,00
+Thiago Almada	Meia Ofensivo	21	Argentina	Atlanta United FC	18,00
+Thibaut Courtois	Goleiro	30	Bélgica	Real Madrid CF	60,00
+Thilo Kehrer	Zagueiro	25	Alemanha / Burundi	FC Paris Saint-Germain	22,00
+Thomas Lemar	Meia Ofensivo	26	França / Guadalupe	Atlético de Madrid	40,00
+Thomas Müller	Seg. Atacante	32	Alemanha	FC Bayern de Munique	22,00
+Thomas Partey	Volante	29	Gana	FC Arsenal	38,00
+Timo Werner	Centroavante	26	Alemanha	Chelsea FC	35,00
+Timothy Castagne	Lateral Dir.	26	Bélgica	Leicester City FC	28,00
+Tino Livramento	Lateral Dir.	19	Inglaterra	FC Southampton	25,00
+Todd Cantwell	Meia Esquerda	24	Inglaterra	Norwich City	18,00
+Tom Davies	Meia Central	24	Inglaterra	FC Everton	18,00
+Tomas Soucek	Volante	27	República Checa	West Ham United	45,00
+Toni Kroos	Meia Central	32	Alemanha	Real Madrid CF	20,00
+Trent Alexander-Arnold	Lateral Dir.	23	Inglaterra	FC Liverpool	80,00
+Trevoh Chalobah	Zagueiro	23	Inglaterra / Serra Leoa	Chelsea FC	20,00
+Tyrick Mitchell	Lateral Esq.	22	Inglaterra / Jamaica	Crystal Palace FC	25,00
+Tyrone Mings	Zagueiro	29	Inglaterra	Aston Villa FC	30,00
+Ugurcan Cakir	Goleiro	26	Turquia	Trabzonspor	18,00
+Umar Sadiq	Centroavante	25	Nigéria	UD Almería	18,00
+Unai Simón	Goleiro	25	Espanha	Athletic Bilbao	25,00
+Unai Vencedor	Meia Central	21	Espanha	Athletic Bilbao	20,00
+Vanderson	Lateral Dir.	21	Brasil	AS Mônaco	18,00
+Victor Lindelöf	Zagueiro	28	Suécia	Manchester United FC	22,00
+Victor Osimhen	Centroavante	23	Nigéria	Nápoles	65,00
+Viktor Tsygankov	Ponta Direita	24	Ucrânia	Dínamo Kiev	25,00
+Vinicius Junior	Ponta Esquerda	22	Brasil	Real Madrid CF	100,00
+Virgil van Dijk	Zagueiro	31	Holanda / Suriname	FC Liverpool	55,00
+Vitaliy Mykolenko	Lateral Esq.	23	Ucrânia	FC Everton	18,00
+Vitinha	Meia Central	22	Portugal	FC Paris Saint-Germain	30,00
+Wendel	Meia Central	24	Brasil	Zenit São Petersburgo	19,00
+Wesley Fofana	Zagueiro	21	França / Costa do Marfim	Leicester City FC	40,00
+Weston McKennie	Meia Central	23	Estados Unidos	Juventus FC	25,00
+Wilfred Ndidi	Volante	25	Nigéria	Leicester City FC	60,00
+Wilfried Zaha	Ponta Esquerda	29	Costa do Marfim / Inglaterra	Crystal Palace FC	38,00
+William Saliba	Zagueiro	21	França / Camarões	FC Arsenal	30,00
+Wilmar Barrios	Volante	28	Colômbia	Zenit São Petersburgo	20,00
+Wissam Ben Yedder	Centroavante	31	França / Tunísia	AS Mônaco	25,00
+Xaver Schlager	Meia Central	24	Áustria	RB Leipzig	27,00
+Yannick Carrasco	Ponta Esquerda	28	Bélgica / Espanha	Atlético de Madrid	40,00
+Yéremy Pino	Ponta Direita	19	Espanha	FC Villarreal	40,00
+Yerry Mina	Zagueiro	27	Colômbia	FC Everton	20,00
+Youri Tielemans	Meia Central	25	Bélgica / RD do Congo	Leicester City FC	55,00
+Youssef En-Nesyri	Centroavante	25	Marrocos	Sevilla FC	25,00
+Youssouf Fofana	Meia Central	23	França / Mali	AS Mônaco	18,00
+Yves Bissouma	Meia Central	25	Mali / Costa do Marfim	Tottenham Hotspur 	35,00
